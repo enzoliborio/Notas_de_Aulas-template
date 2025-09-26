@@ -14,9 +14,14 @@ Basicamente, possui Capa, Sumário, Resumo, Capítulos, Apêndices e Referência
 Nas minhas notas de aulas já produzidas, personalizei a capa para cada disciplina, feita pelo [Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html).
 
 ### Cálculo C
-| Capa personalizada  | Exemplo básico de uma página |
+| Capa personalizada | Exemplo básico de uma página |
 | :-----------------: | :--------------------------: |
-| [![Capa personalizada](exemplos/CalculoC-capa.jpg)](exemplos/CalculoC-capa.jpg) | [![Exemplo básico de uma página](exemplos/CalculoC-pagina_exemplo.jpg)](exemplos/CalculoC-pagina_exemplo.jpg) |
+| [<img src="exemplos/CalculoC-capa.jpg" alt="Capa personalizada" width="400">](exemplos/CalculoC-capa.jpg) | [<img src="exemplos/CalculoC-pagina_exemplo.jpg" alt="Exemplo básico de uma página" width="400">](exemplos/CalculoC-pagina_exemplo.jpg) |
+
+### Física 3
+| Capa personalizada | Exemplo básico de uma página |
+| :-----------------: | :--------------------------: |
+| [<img src="exemplos/Fisica3-capa.jpg" alt="Capa personalizada" width="400">](exemplos/Fisica3-capa.jpg) | [<img src="exemplos/Fisica3-pagina_exemplo.jpg" alt="Exemplo básico de uma página" width="400">](exemplos/Fisica3-pagina_exemplo.jpg) |
 
 
 ## Atribuição e Licença 🤝
