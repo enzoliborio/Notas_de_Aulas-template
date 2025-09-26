@@ -36,7 +36,7 @@ No template, a capa utilizada possui apenas dados básicos e fica a cargo do uti
 
 Este template é gratuito e de código aberto, licenciado sob a **Creative Commons Attribution 4.0 International**.   
 Isso significa que você pode usar, modificar e compartilhar como quiser, até mesmo para fins comerciais, contanto que me dê o devido crédito.   
-Veja o arquivo [`LICENSE`](./LICENSE) ou acesse [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mais informações.
+Veja o arquivo [`LICENSE`](./LICENSE.md) ou acesse [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mais informações.
 
 Se você usar este template, por favor, inclua a seguinte atribuição em algum lugar do seu projeto ou documento:
 
