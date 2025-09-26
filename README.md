@@ -16,7 +16,7 @@ Nas minhas notas de aulas já produzidas, personalizei a capa para cada discipli
 ### Cálculo C
 | Capa personalizada  | Exemplo básico de uma página |
 | :-----------------: | :--------------------------: |
-| [!Capa personalizada](exemplos/CalculoC-capa.jpeg)](exemplos/CalculoC-capa.jpeg) | [![Exemplo básico de uma página](examples/CalculoC-pagina_exemplo.jpeg)](examples/CalculoC-pagina_exemplo.jpeg) |
+| [![Capa personalizada](exemplos/CalculoC-capa.jpg)](exemplos/CalculoC-capa.jpg) | [![Exemplo básico de uma página](examples/CalculoC-pagina_exemplo.jpg)](examples/CalculoC-pagina_exemplo.jpg) |
 
 
 ## Atribuição e Licença 🤝
