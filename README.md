@@ -42,6 +42,6 @@ Se você usar este template, por favor, inclua a seguinte atribuição em algum 
 
 Formato Sugerido:
 
-> Template: Esse documento foi criado a partir do modelo "Notas de Aulas" de Enzo Libório Fraga. Disponível em: https://github.com/enzoliborio/Notas_de_Aulas-template). Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Template: Esse documento foi criado a partir do modelo "Notas de Aulas" de Enzo Libório Fraga. Disponível em: https://github.com/enzoliborio/Notas_de_Aulas-template. Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 
 Você pode simplesmente deixar um comentário no seu arquivo `.tex` principal ou uma nota em seus agradecimentos. Obrigado!
