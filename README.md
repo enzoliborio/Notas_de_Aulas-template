@@ -34,14 +34,14 @@ No template, a capa utilizada possui apenas dados básicos e fica a cargo do uti
 
 ## Atribuição e Licença 🤝
 
-Este template é gratuito e de código aberto, licenciado sob a **Creative Commons Attribution 4.0 International**. Isso significa que você pode usar, modificar e compartilhar como quiser, até mesmo para fins comerciais, contanto que me dê o devido crédito.   
-Veja o arquivo [`LICENSE`](./LICENSE) ou acesse [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) para mais informações.
+Este template é gratuito, licenciado sob a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International**.   
+Veja o arquivo [`LICENSE`](./LICENSE.md) ou acesse [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) para mais informações.
 
 Se você usar este template, por favor, inclua a seguinte atribuição em algum lugar do seu projeto ou documento:
 
 Formato Sugerido:
 
-> Template: "Notas de Aulas" por Enzo Libório Fraga (https://github.com/enzoliborio/Notas_de_Aulas-template). Licenciado sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+> Template: "Notas de Aulas" por Enzo Libório Fraga (https://github.com/enzoliborio/Notas_de_Aulas-template). Licenciado sob [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Você pode simplesmente deixar um comentário no seu arquivo `.tex` principal ou uma nota em seus agradecimentos. Obrigado!
 
