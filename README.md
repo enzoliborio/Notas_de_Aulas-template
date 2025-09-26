@@ -6,12 +6,20 @@ Basicamente, possui Capa, Sumário, Resumo, Capítulos, Apêndices e Referência
 
 > ⚠️ Recomendo que utilize a verão disponível na [Overleaf Galery]() para maior facilidade de manuseio.
 
-👀 Para visualizar o documento-modelo compilado, clique [aqui](./Notas_de_Aulas_template.pdf).
-
 
 ## Exemplos de utilizações 👨‍💻
 
-Nas minhas notas de aulas já produzidas, personalizei a capa para cada disciplina, feita pelo [Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html).
+👀 Para visualizar o template compilado, clique [aqui](./Notas_de_Aulas_template.pdf).
+
+Nas minhas notas de aulas já produzidas, personalizei a capa para cada disciplina pelo [Adobe Illustrator](https://www.adobe.com/br/products/illustrator.html).   
+No template, a capa utilizada possui apenas dados básicos e fica a cargo do utilizador modificá-la.
+
+### Template
+| Capa personalizável | Sumário |
+| :-----------------: | :--------------------------: |
+| [<img src="exemplos/Notas_de_aulas-capa.jpg" alt="Capa personalizada" width="400">](exemplos/Notas_de_aulas-capa.jpg) | [<img src="exemplos/Notas_de_aulas-sumario.jpg" alt="Exemplo básico de uma página" width="400">](exemplos/Notas_de_aulas-sumario.jpg) |
+| Resumo | Exemplo básico de uma página |
+| [<img src="exemplos/Notas_de_aulas-resumo.jpg" alt="Capa personalizada" width="400">](exemplos/Notas_de_aulas-resumo.jpg) | [<img src="exemplos/Notas_de_aulas-pagina_exemplo.jpg" alt="Exemplo básico de uma página" width="400">](exemplos/Notas_de_aulas-pagina_exemplo.jpg) |
 
 ### Cálculo C
 | Capa personalizada | Exemplo básico de uma página |
