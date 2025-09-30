@@ -1,10 +1,12 @@
-# Template $\LaTeX$ para *Notas de Aulas* 📝
+# Template LaTeX para *Notas de Aulas* 📝
 
 Este template foi criado para uso de base em novas anotações das disciplinas do meu curso de Engenharia da Computação.
 
-Basicamente, possui Capa, Sumário, Resumo, Capítulos, Apêndices e Referências Bibliográficas sendo possível a adição de qualquer estrutura a mais no código $\LaTeX$.
+Basicamente, possui Capa, Sumário, Resumo, Capítulos, Apêndices e Referências Bibliográficas sendo possível a adição de qualquer estrutura a mais no código LaTeX.
 
+<!--
 > ⚠️ Recomendo que utilize a verão disponível na [Overleaf Galery]() para maior facilidade de manuseio.
+-->
 
 
 ## Exemplos de utilizações 👨‍💻
